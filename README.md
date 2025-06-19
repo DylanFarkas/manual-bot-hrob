@@ -31,7 +31,7 @@ This website is an interactive guide that explains how to correctly use the What
 
 
 ```bash
-git clone https://github.com/tuusuario/manual-bot-hrob.git
+git clone https://github.com/DylanFarkas/manual-bot-hrob.git
 cd manual-bot-hrob
 ```
 
