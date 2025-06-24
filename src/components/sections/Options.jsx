@@ -23,7 +23,7 @@ const Options = () => {
         className="text-base md:text-lg text-gray-700 max-w-2xl mb-10 text-justify"
       >
         Actualmente, el bot está enfocado en brindar atención para agendamiento y cancelación de citas, especialmente
-        para el servicio de <strong>Laboratorio Clínico</strong>. Ten en cuenta las opciones que sí y no están disponibles:
+        para el servicio de <strong>Laboratorio Clínico</strong>. Ten en cuenta las opciones que sí están y no disponibles:
       </motion.p>
 
       <div className="flex flex-col md:flex-row gap-6 w-full max-w-4xl">
